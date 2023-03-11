@@ -1,0 +1,5 @@
+This was a calculator created in university with group members. Myself and another coursemate worked together to create the calculator in our freetime so that our other coursemates could complete the writeup. This is due to the varied experience in coding where it was unanimously agreed upon that we would be best suited to work on a calculator using Java. 
+
+The calculator would be a basic one, which can be improved upon. It allows for multiplication, addition, subtraction and division along with decimal points. The use of listeners is key to allowing for the program to work in this way so that the program reads what the user presses and prints the outcome.
+
+After completing the task, myself and my coursemate would writeup a description of the task so the other teammates could understand how it worked without any issues.
